@@ -1,19 +1,20 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="byalegonz.me" resolutions="1x" timestamp="1536071433973">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="byalegonz.me" resolutions="1x" timestamp="1536621762550">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3923360830" ref="index:portafolio:contact:about"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:portafolio:contact:about"/>
-    <file name="index.css" crc="115254274" ref="index"/>
-    <file name="nomq_index.css" crc="444371031" ref="index"/>
-    <file name="portafolio.css" crc="3759492171" ref="portafolio"/>
-    <file name="nomq_portafolio.css" crc="19153698" ref="portafolio"/>
-    <file name="contact.css" crc="357681967" ref="contact"/>
-    <file name="nomq_contact.css" crc="52780608" ref="contact"/>
-    <file name="about.css" crc="4155020202" ref="about"/>
-    <file name="nomq_about.css" crc="4068331060" ref="about"/>
+    <file name="master_a-master.css" crc="525090245" ref="index:portafolio:contact:about"/>
+    <file name="nomq_preview_master_a-master.css" crc="3967757414" ref="index:portafolio:contact:about"/>
+    <file name="index.css" crc="359148766" ref="index"/>
+    <file name="nomq_index.css" crc="4182935758" ref="index"/>
+    <file name="portafolio.css" crc="36632685" ref="portafolio"/>
+    <file name="nomq_portafolio.css" crc="509195957" ref="portafolio"/>
+    <file name="contact.css" crc="4087565294" ref="contact"/>
+    <file name="nomq_contact.css" crc="4195622612" ref="contact"/>
+    <file name="about.css" crc="3867495267" ref="about"/>
+    <file name="nomq_about.css" crc="192324908" ref="about"/>
   </folder>
   <folder name="assets">
     <file name="6-colores.pdf" crc="469774474" seo="true" mt="1525282710000"/>
+    <file name="alejandra-resume.pdf" crc="3808745311" seo="true" mt="1536619651000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:portafolio:about"/>
@@ -29,34 +30,21 @@
     <file name="form_check.php" crc="4020933626" ref="contact"/>
     <file name="form_throttle.php" crc="4259590256" ref="contact"/>
     <file name="form_process.php" crc="37464564" ref="contact"/>
-    <file name="form-u293.php" crc="53986692" ref="contact"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="portafolio"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="portafolio"/>
     <file name="touchswipe.js" crc="4075097462" ref="portafolio"/>
+    <file name="form-u3829.php" crc="233845837" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="pasted-svg-504x360.svg" crc="3821632960" seo="true" ref="index:contact:portafolio:about">
+    <file name="dibujo 1.jpg" crc="242905908" seo="true" ref="portafolio">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="portafolio" alt=""/>
-      <caption webpage="portafolio" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
-    <file name="pasted svg 504x360_poster_.png" crc="332495595" ref="index"/>
-    <file name="dibujo 1.jpg" crc="455494031" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="dibujo 3-crop-u236.jpg" crc="3946422567" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dibujo 2-crop-u216.jpg" crc="424645182" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="dibujo 3-crop-u236.jpg" crc="83581159" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="aa ig-crop-u3410.png" crc="3789801165" seo="true" ref="index:contact:portafolio:about">
+    <file name="aa ig-crop-u3410.png" crc="468587314" seo="true" ref="index:contact:portafolio:about">
       <caption webpage="index" alt=""/>
       <caption webpage="portafolio" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -82,61 +70,73 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="dibujo 3-crop-u2362.jpg" crc="3915089354" seo="true" ref="index">
+    <file name="dibujo 3-crop-u2362.jpg" crc="136968768" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dibujo 2-crop-u2162.jpg" crc="3905205967" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="aa ig.png" crc="4286057807" seo="true" ref="index:contact:portafolio:about">
+    <file name="aa ig.png" crc="170140442" seo="true" ref="index:contact:portafolio:about">
       <caption webpage="index" alt=""/>
       <caption webpage="portafolio" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:contact:portafolio:about"/>
-    <file name="3 coloresss-crop-u1710.jpg" crc="474665436" seo="true" ref="portafolio">
-      <caption webpage="portafolio" alt=""/>
-    </file>
-    <file name="ddee-crop-u1808.jpg" crc="72668579" seo="true" ref="portafolio">
-      <caption webpage="portafolio" alt=""/>
-    </file>
-    <file name="alejandra 1 new-crop-u1835.jpg" crc="3893352372" seo="true" ref="portafolio">
-      <caption webpage="portafolio" alt=""/>
-    </file>
-    <file name="6 colores-crop-u1862.jpg" crc="3924701522" seo="true" ref="portafolio">
-      <caption webpage="portafolio" alt=""/>
-    </file>
-    <file name="3-crop-u1889.jpg" crc="156958794" seo="true" ref="portafolio">
-      <caption webpage="portafolio" alt=""/>
-    </file>
     <file name="loading.gif" crc="3815509949" ref="portafolio"/>
-    <file name="3 coloresss-crop-u17102.jpg" crc="3913795302" seo="true" ref="portafolio">
-      <caption webpage="portafolio" alt=""/>
-    </file>
-    <file name="ddee-crop-u18082.jpg" crc="3932915511" seo="true" ref="portafolio">
-      <caption webpage="portafolio" alt=""/>
-    </file>
-    <file name="alejandra 1 new-crop-u18352.jpg" crc="493043260" seo="true" ref="portafolio">
-      <caption webpage="portafolio" alt=""/>
-    </file>
-    <file name="6 colores-crop-u18622.jpg" crc="354013515" seo="true" ref="portafolio">
-      <caption webpage="portafolio" alt=""/>
-    </file>
-    <file name="3-crop-u18892.jpg" crc="4176435516" seo="true" ref="portafolio">
-      <caption webpage="portafolio" alt=""/>
-    </file>
     <file name="ale gonz-crop-u248.jpg" crc="4166777459" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="u261-15.png" crc="463468977" ref="about"/>
-    <file name="ale gonz-crop-u2482.jpg" crc="84095216" seo="true" ref="about">
+    <file name="ale gonz-crop-u2482.jpg" crc="4207190362" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="u261-152.png" crc="245829480" ref="about"/>
+    <file name="logo azul.png" crc="4084459749" seo="true" ref="index:contact:portafolio:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pina project218x218.png" crc="4283071333" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eiffel tower project.jpg" crc="3960144536" seo="true" ref="index:portafolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="aa.png" crc="498262484" seo="true" ref="index:contact:portafolio:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="logo azul245x175.png" crc="202543496" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pina project137x137.png" crc="462395971" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3 coloresss.jpg" crc="4251716307" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="pina project.png" crc="4018656510" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="3 coloresss188x188.jpg" crc="3908991447" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="dibujo 1250x179.jpg" crc="414745424" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="pina project188x188.png" crc="3872316969" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="u261-20.png" crc="3923805736" ref="about"/>
   </folder>
-  <file name="index.html" crc="466815563" seo="true" mt="1536071429083" redirect="true"/>
-  <file name="contact.html" crc="4137517082" seo="true" mt="1536071429083" redirect="true"/>
-  <file name="portafolio.html" crc="4277263197" seo="true" mt="1536071429083" redirect="true"/>
-  <file name="about.html" crc="4051924469" seo="true" mt="1536071429083" redirect="true"/>
+  <file name="index.html" crc="210202705" seo="true" mt="1536617679351" redirect="true"/>
+  <file name="contact.html" crc="116988056" seo="true" mt="1536617550656" redirect="true"/>
+  <file name="portafolio.html" crc="4258986275" seo="true" mt="1536617028587" redirect="true"/>
+  <file name="about.html" crc="212865831" seo="true" mt="1536620785316" redirect="true"/>
 </manifest>
