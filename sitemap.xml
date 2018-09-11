@@ -140,6 +140,9 @@
     <image:image>
       <image:loc>http://byalegonz.me/images/aa.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://byalegonz.me/images/logo%20azul245x175.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://byalegonz.me/assets/6-colores.pdf</loc>

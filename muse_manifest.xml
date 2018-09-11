@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="byalegonz.me" resolutions="1x" timestamp="1536621762550">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="byalegonz.me" resolutions="1x" timestamp="1536622665612">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="525090245" ref="index:portafolio:contact:about"/>
@@ -9,7 +9,7 @@
     <file name="nomq_portafolio.css" crc="509195957" ref="portafolio"/>
     <file name="contact.css" crc="4087565294" ref="contact"/>
     <file name="nomq_contact.css" crc="4195622612" ref="contact"/>
-    <file name="about.css" crc="3867495267" ref="about"/>
+    <file name="about.css" crc="4113988443" ref="about"/>
     <file name="nomq_about.css" crc="192324908" ref="about"/>
   </folder>
   <folder name="assets">
@@ -112,8 +112,9 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="logo azul245x175.png" crc="202543496" seo="true" ref="index">
+    <file name="logo azul245x175.png" crc="202543496" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="pina project137x137.png" crc="462395971" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -138,5 +139,5 @@
   <file name="index.html" crc="210202705" seo="true" mt="1536617679351" redirect="true"/>
   <file name="contact.html" crc="116988056" seo="true" mt="1536617550656" redirect="true"/>
   <file name="portafolio.html" crc="4258986275" seo="true" mt="1536617028587" redirect="true"/>
-  <file name="about.html" crc="212865831" seo="true" mt="1536620785316" redirect="true"/>
+  <file name="about.html" crc="370722001" seo="true" mt="1536622584321" redirect="true"/>
 </manifest>
